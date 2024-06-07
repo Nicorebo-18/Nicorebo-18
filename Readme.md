@@ -1,5 +1,5 @@
 <h1 align="center">👋🏽 Hi there, I'm Nicolas!</h1>
-<h3 align="center">Electrical and Electronics Engineer | Autonomous Robotics | Exploring AI Integration in Robotic and Electronic Systems | Code Developer in My Free Time</h3>
+<h3 align="center">🔌 Electrical and Electronics Engineer | 🤖 Autonomous Robotics | 🧠 Exploring AI Integration in Robotic and Electronic Systems | 💻 Code Developer in My Free Time</h3>
 
 **I am Nicolas Rebollo**, a dedicated Electrical and Electronics Engineer with a passion for robotics and AI integration. During my educational journey, I have achieved the following milestones:
 
