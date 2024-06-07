@@ -1,7 +1,7 @@
 <h1 align="center">👋🏽 Hi there, I'm Nicolas!</h1>
 <h3 align="center">Electrical & Electronics Student | Code Developer in My Free Time</h3>
 
-- 💼 Currently working on a GTA V Server at [EpiclandRP's Discord](https://discord.gg/zXSJKtwAra).
+<!--- - 💼 Currently working on a GTA V Server at [EpiclandRP's Discord](https://discord.gg/zXSJKtwAra). -->
 
 - 💻 Learning about **Frontend & Backend Development**.
 
