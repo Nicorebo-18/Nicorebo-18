@@ -1,6 +1,15 @@
 <h1 align="center">👋🏽 Hi there, I'm Nicolas!</h1>
 <h3 align="center">Electrical & Electronics Student | Code Developer in My Free Time</h3>
 
+I am Nicolas Rebollo, a dedicated Electrical and Electronics Engineer with a passion for robotics and AI integration. During my educational journey, I have achieved the following milestones:
+
+🏆 World Champion in the largest robotics tournament of the world (FIRST®)
+🏅 Winner of the FIRST® Global Innovation Awards
+🥇 Champion of my university's robotics tournament
+🌍 Completed an Erasmus program in Brussels
+
+
+
 <!--- - 💼 Currently working on a GTA V Server at [EpiclandRP's Discord](https://discord.gg/zXSJKtwAra). -->
 
 - 💻 Learning about **Frontend & Backend Development**.
