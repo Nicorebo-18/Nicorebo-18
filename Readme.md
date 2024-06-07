@@ -13,16 +13,12 @@
 
 
 
-**Software Skills**
+**Software Skills:**
 <!--- - 💼 Currently working on a GTA V Server at [EpiclandRP's Discord](https://discord.gg/zXSJKtwAra). -->
 
 - 💻 Learning about **Frontend & Backend Development**.
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Python, C, C++, Assembly, and Lua**.
-
-- 📧 How to reach me? Feel free to contact me via email: [nicorebo18@gmail.com](mailto:nicorebo18@gmail.com).
-
-- 🎧 Curious about my music tastes? Check out [The Score](https://music.youtube.com/channel/UCdQICt_YIo4FEOaLtTOi4RA), [Twenty Øne Pilots](https://music.youtube.com/channel/UCnX0L9QiftAcWdzeBx31xCw), and [Imagine Dragons](https://music.youtube.com/channel/UC0aXrjVxG5pZr99v77wZdPQ).
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
@@ -59,3 +55,9 @@
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></code>  
     </a> 
 </p>
+
+**Other Stuff:**
+
+- 📧 How to reach me? Feel free to contact me via email: [nicorebo18@gmail.com](mailto:nicorebo18@gmail.com).
+
+- 🎧 Curious about my music tastes? Check out [The Score](https://music.youtube.com/channel/UCdQICt_YIo4FEOaLtTOi4RA), [Twenty Øne Pilots](https://music.youtube.com/channel/UCnX0L9QiftAcWdzeBx31xCw), and [Imagine Dragons](https://music.youtube.com/channel/UC0aXrjVxG5pZr99v77wZdPQ).
