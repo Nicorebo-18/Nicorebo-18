@@ -12,18 +12,17 @@
 - 🌍 Completed an Erasmus program in Brussels
 
 
+**Connect with me:**
+<a href="https://www.linkedin.com/in/nicorebo18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="nicorebo18" height="25" width="35" /> </a>
 
-**Software Skills:**
+<br/>
+
+<h3>Software Skills:</h3>
 <!--- - 💼 Currently working on a GTA V Server at [EpiclandRP's Discord](https://discord.gg/zXSJKtwAra). -->
 
 - 💻 Learning about **Frontend & Backend Development**.
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Python, C, C++, Assembly, and Lua**.
-
-<p align="left">
-<h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/nicorebo18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="nicorebo18" height="30" width="40" /> </a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
@@ -55,6 +54,8 @@
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></code>  
     </a> 
 </p>
+
+<br/><br/>
 
 **Other Stuff:**
 
