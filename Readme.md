@@ -54,6 +54,9 @@
     </a>
     <a href="https://git-scm.com/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></code>  
+    </a>
+    <a href="https://www.mysql.com/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="Mysql" width="40" height="40"/></code>  
     </a> 
 </p>
 
