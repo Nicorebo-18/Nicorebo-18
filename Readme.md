@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/nicolas-avatar.png" width="110" height="110" alt="Nicolás Rebollo" />
+<img src="./assets/nicolas-avatar.png" width="200" height="200" alt="Nicolás Rebollo" />
 
 # NICOLÁS REBOLLO
 
