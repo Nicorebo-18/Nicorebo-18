@@ -1,69 +1,68 @@
-<h1 align="center">👋🏽 Hi there, I'm Nicolas!</h1>
-<h3 align="center">🔌 Electrical and Electronics Engineer | 🤖 Autonomous Robotics | 🧠 Exploring AI Integration in Robotic and Electronic Systems | 💻 Code Developer in My Free Time</h3>
+<div align="center">
 
-<br/>
+<img src="https://media.licdn.com/dms/image/v2/D4D03AQGH3UvrSSBvQA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1728991060460?e=1788393600&v=beta&t=jHf-xDj0hvlGEJO2sNY3bT2WzwuJERzzIjtyKu1Q2UY" width="110" height="110" alt="Nicolás Rebollo" />
 
-**I am Nicolas Rebollo**, a dedicated Electrical and Electronics Engineer with a passion for robotics and AI integration. During my educational journey, I have achieved the following milestones:
+# NICOLÁS REBOLLO
 
-- 🏆 World Champion in the largest robotics tournament of the world (FIRST®)
+<sub>ELECTRICAL & EMBEDDED SYSTEMS ENGINEER — AUTONOMOUS ROBOTICS — APPLIED AI</sub>
 
-- 🏅 Winner of the FIRST® Global Innovation Awards
-  
-- 🥇 Champion of my university's robotics tournament
+</div>
 
-- 🌍 Completed an Erasmus program in Brussels
+<br>
 
+<div align="center">
+<i>"Building secure, low-level firmware for the systems the energy transition runs on -<br>shaped by a decade of leading engineering teams to world championships."</i>
+</div>
 
-**Connect with me:**
-<a href="https://www.linkedin.com/in/nicorebo18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="nicorebo18" height="25" width="35" /> </a>
+<br>
 
-<br/>
+<div align="center">
 
-<h3>Software Skills:</h3>
-<!--- - 💼 Currently working on a GTA V Server at [EpiclandRP's Discord](https://discord.gg/zXSJKtwAra). -->
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicorebo18/)
+[![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicorebo18@gmail.com)
 
-- 💻 Learning about **Frontend & Backend Development**.
+</div>
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Python, C, C++, Assembly, and Lua**.
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  
-    <a href="https://www.w3.org/html/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/></code> 
-    </a>  
-    <a href="https://www.w3schools.com/css/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/></code>  
-    </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40"/></code>  
-    </a>
-    <a href="https://www.python.org/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </code> 
-    </a> 
-    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </code> 
-    </a>
-    <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </code> 
-    </a>
-    <a href="https://www.lua.org/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="Lua" width="40" height="40"/> </code> 
-    </a>
-    <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank"> 
-        <code><img src="https://www.svgrepo.com/show/373445/assembly.svg" alt="Assembly" width="40" height="40"/> </code> 
-    </a>
-    <a href="https://git-scm.com/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></code>  
-    </a>
-    <a href="https://www.mysql.com/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="Mysql" width="40" height="40"/></code>  
-    </a> 
-</p>
+### Profile
 
-<br/><br/>
+I am an Electrical and Electronics Engineer working at the intersection of embedded firmware, cybersecurity, and autonomous systems. My path has run through university robotics championships, an AI research thesis in Brussels, and now production firmware for EV charging infrastructure - each step building the same underlying skill: making complex systems reliable under real constraints.
 
-**Other Stuff:**
+**Track record:**
 
-- 📧 How to reach me? Feel free to contact me via email: [nicorebo18@gmail.com](mailto:nicorebo18@gmail.com).
+`→` Global Champions Award & Global Robot Performance Award - FIRST® LEGO League World Championship, Houston (2023)
+`→` Global Innovation Award - FIRST® Global, Silicon Valley (2018)
+`→` Champion, robot performance competition - Universidad Pública de Navarra
+`→` Bachelor's thesis in autonomous robotics, Vrije Universiteit Brussel (Erasmus, scored 95%)
 
-- 🎧 Curious about my music tastes? Check out [The Score](https://music.youtube.com/channel/UCdQICt_YIo4FEOaLtTOi4RA), [Twenty Øne Pilots](https://music.youtube.com/channel/UCnX0L9QiftAcWdzeBx31xCw), and [Imagine Dragons](https://music.youtube.com/channel/UC0aXrjVxG5pZr99v77wZdPQ).
+---
+
+### Currently
+
+`▹` Engineering low-level C firmware and cybersecurity hardening for EV chargers - **Ingeteam Power Technology**
+`▹` Co-author of an IEEE publication on AI-driven robotics in engineering education - presented at IEEE-ICELIE, Chicago
+`▹` Deepening expertise in embedded Linux, secure device provisioning, and industrial network protocols
+
+---
+
+### Stack
+
+<div align="center">
+
+![C](https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Embedded_Linux-000000?style=flat-square&logo=linux&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-000000?style=flat-square&logo=mqtt&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white)
+
+<sub>CAN · TCP/IP · RS485 · Buildroot · OpenWRT · Microcontrollers · FPGAs · Fusion 360</sub>
+
+</div>
+
+---
+
+<div align="center">
+<sub>Pamplona / Bilbao, Spain - open to conversations on embedded systems, robotics, and secure firmware ;)</sub>
+</div>
